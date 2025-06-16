@@ -1,1 +1,2 @@
-
+# PC5 - Derick Guzman Moya y CLAUDIA YESENIA POMAHUALLCA CHAHUA
+### Este proyecto aplica operaciones de superposición espacial en los 48 estados continentales de EE.UU. usando GeoPandas. Se realizaron divisiones geográficas (Norte, Sur, Este, Oeste) y se aplicaron overlays como diferencia simétrica y diferencia, resolviendo previamente problemas de geometrías inválidas. En el siguiente se encuentra el Proyecto realizado [PC5](https://derick047.github.io/introgeodf/)
